@@ -3,6 +3,8 @@ This repository contains the major Generative Adversarial Networks implemented i
 
 ---
 
+# Output
+
 ![Output](./Vanilla%20GANs/output.png)
 
 
